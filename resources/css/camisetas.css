@@ -1,0 +1,23 @@
+.pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.pagination .page-item {
+    margin: 0 5px;
+}
+
+.pagination .page-link {
+    color: #FFA500;
+    border-color: #FFA500;
+}
+
+.pagination .page-link:hover {
+    background-color: #FFA500;
+    color: white;
+}
+
+.pagination .page-link:focus {
+    box-shadow: none;
+}

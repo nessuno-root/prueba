@@ -1,0 +1,26 @@
+/*/<!--styles for carousel-->*/
+.carousel-item {
+    height: 600px;
+    /* Altura deseada del carousel */
+    width: 100%;
+}
+
+.carousel-item img {
+    object-fit: cover;
+    height: 200%;
+    width: 100%;
+}
+
+.my-8 {
+    margin-top: 6rem;
+    margin-bottom: 6rem;
+}
+
+.carousel-inner {
+    width: 100%;
+}
+
+.card-text-small {
+    font-size: 14px;
+    /* Tamaño de fuente deseado */
+}
